@@ -1,0 +1,12 @@
+{
+    "id": "",
+    "name": "local-userpass",
+    "type": "local-userpass",
+    "config": {
+        "confirmEmailSubject": "",
+        "emailConfirmationUrl": "",
+        "resetPasswordSubject": "",
+        "resetPasswordUrl": ""
+    },
+    "disabled": true
+}
