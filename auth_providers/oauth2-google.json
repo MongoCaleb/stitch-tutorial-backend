@@ -1,9 +1,7 @@
 {
-    "id": "",
     "name": "oauth2-google",
     "type": "oauth2-google",
     "config": {
-        "clientId": ""
     },
     "secret_config": {
         "clientSecret": ""

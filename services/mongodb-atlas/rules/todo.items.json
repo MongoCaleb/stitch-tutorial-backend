@@ -1,5 +1,4 @@
 {
-    "id": "5c87d6cf230065ff66c28960",
     "database": "todo",
     "collection": "items",
     "filters": [
