@@ -1,0 +1,54 @@
+{
+    "id": "5ca3e2e4acd73e90920442b9",
+    "name": "oauth2-google",
+    "type": "oauth2-google",
+    "config": {
+        "clientId": "145124500541-c8nm73rrg5bgm95gfmtg8rvfjmdl5tgs.apps.googleusercontent.com"
+    },
+    "secret_config": {
+        "clientSecret": "GoogleSekrit"
+    },
+    "disabled": false,
+    "metadata_fields": [
+        {
+            "required": false,
+            "name": "name"
+        },
+        {
+            "required": false,
+            "name": "first_name"
+        },
+        {
+            "required": false,
+            "name": "last_name"
+        },
+        {
+            "required": false,
+            "name": "picture"
+        },
+        {
+            "required": false,
+            "name": "gender"
+        },
+        {
+            "required": false,
+            "name": "birthday"
+        },
+        {
+            "required": false,
+            "name": "min_age"
+        },
+        {
+            "required": false,
+            "name": "max_age"
+        },
+        {
+            "required": false,
+            "name": "email"
+        }
+    ],
+    "redirect_uris": [
+        "https://todo-tutorial-qcdpf-desko.mongodbstitch.com/",
+        "https://todo-tutorial-qcdpf-desko.mongodbstitch.com/index.html"
+    ]
+}
