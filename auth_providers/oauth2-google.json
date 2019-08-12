@@ -4,7 +4,7 @@
     "config": {
     },
     "secret_config": {
-        "clientSecret": ""
+        "clientSecret": "abc"
     },
     "disabled": false,
     "metadata_fields": [
